@@ -1,2 +1,2 @@
 Wsoftpro
-Magento
+Magento 1
